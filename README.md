@@ -8,4 +8,4 @@
     The lawnmower comes randomly.
 3. The h variable is responsible for the varying heights of the grass.
 4. Hue, saturation, and brightness.
-5. The -10 on both arguments determine the height at which the grass will be cut.
+5. The -10 on the second arguments sets the grass on the ground, and the fourth argument determine the height at which the grass will start.
